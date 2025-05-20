@@ -5,6 +5,9 @@ This repository contains the circuit diagram for a Master-Slave D-Type Flip-Flop
 ![MasterSlaveFlipFlop](https://github.com/user-attachments/assets/63a6d97b-a22f-47de-b1bb-3a13a3dbbbe4)
 
 
+![20250520_193316](https://github.com/user-attachments/assets/2dc6a999-c751-4306-b16c-fb21dd1bce16)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
